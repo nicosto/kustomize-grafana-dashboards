@@ -1596,7 +1596,7 @@
   "refresh": "5s",
   "schemaVersion": 19,
   "style": "dark",
-  "tags": [],
+  "tags": ["Jenkins","CI/CD"],
   "templating": {
     "list": []
   },
@@ -1630,7 +1630,7 @@
     ]
   },
   "timezone": "browser",
-  "title": "Jenkins-status-00004",
+  "title": "Jenkins",
   "uid": "CyA28m5Wk",
   "version": 6
 }
